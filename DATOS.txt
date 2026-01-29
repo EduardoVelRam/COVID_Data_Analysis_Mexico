@@ -1,0 +1,33 @@
+
+
+	Conjuntos de datos y descripción
+
+   1.	INEGI_population 
+	https://www.inegi.org.mx/programas/ccpv/2020/#Datos_abiertos
+	Última actualización: 2020
+
+   2.	DGIS_defunciones
+	http://www.dgis.salud.gob.mx/contenidos/basesdedatos/da_defunciones_gobmx.html
+	Úlitma actualización: 2020 y 2021 (se encuentra en la siguiente carpeta)
+
+   3.	AGEE_geostatistical
+	
+	Última actualización: 
+	
+   4. 	SNIM_municipios (INAFED) (Aquí se encuentran los datos geográficos de cada estado)
+	http://snim.rami.gob.mx/
+	Última actualización: 2020
+
+   5.	CONEVAL_
+	https://www.coneval.org.mx/Medicion/Paginas/Programas_VCOMPL_mpal_2010-2020.aspx
+	Última actualización: 2020
+
+   6.	Marco_Geoestadístico
+	https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=889463770541
+	Última actualización: 2022
+
+   7.   Datos Covid
+	https://coronavirus.gob.mx/
+	última actualización: 
+
+	
