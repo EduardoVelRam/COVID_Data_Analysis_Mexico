@@ -4,10 +4,11 @@ This project uses IBM's BFMDS methodology for Data Science to analyze, prepare, 
 
 ---
 
-## 📌 Characteristics
-- 1
-- 2
-- 3
+## 📌 Data Sources
+- INEGI
+- AGEE
+- DGIS
+- CONACYT
 
 ---
 
