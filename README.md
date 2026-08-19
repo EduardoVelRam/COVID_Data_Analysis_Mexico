@@ -8,6 +8,7 @@ This project uses IBM's BFMDS methodology for Data Science to analyze, prepare, 
 - INEGI
 - AGEE
 - DGIS
+- SNIM
 - CONACYT
 
 ---
